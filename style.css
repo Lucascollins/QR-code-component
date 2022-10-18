@@ -35,6 +35,7 @@ body{
     background-color: var(--White);
     padding: 18px;
     border-radius: 18px;
+    margin: 20px;
 }
 
 
@@ -60,7 +61,7 @@ body{
     height: 35%;
 }
 
-.qrcode_container .text_qrcode h2{
+.qrcode_container .text_qrcode h1{
     font-size: 1rem;
     font-weight: 800;
     color: var(--Dark_blue);
